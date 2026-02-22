@@ -31,39 +31,6 @@ Designed for alts, fresh characters, and anyone tired of manually sorting full i
 
 ## 🕹️ How to Use
 
-1. Open via: # 🦎 LizardDMP (Dress Me Please)
-
-Fast gear optimizer for WotLK 3.3.5 that automatically equips the best items based on your selected stat priority.
-
-Designed for alts, fresh characters, and anyone tired of manually sorting full inventories.
-
----
-
-## ✨ Features
-
-- 🔎 Scans equipped gear and bags
-- 📊 Primary + Secondary stat filtering
-- ⚡ One-click best gear equip
-- 💍 Correct handling of rings and trinkets (top 2)
-- 🧠 Smart stat-based scoring
-- 🗺️ Minimap button with quick actions
-- 💾 Remembers your settings
-- 🪶 Lightweight and fast (no libraries)
-
----
-
-## 🎯 Use Cases
-
-- Fresh level 80 characters  
-- Gearing alts quickly  
-- Cleaning up full inventories  
-- Pre-BiS gearing phases  
-- General QoL optimization  
-
----
-
-## 🕹️ How to Use
-
 1. Open via: /ldmp (Or left-click the minimap button)
 
 2. Select:
