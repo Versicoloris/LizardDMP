@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cff00ff00Lizard|r|cffFFFFFFDMP|r |cffAAAAAA(Dress Me Please)|r
+## Notes: Auto-equips gear based on the highest selected stat. If you're too lazy to dress yourself.
+## Author: Lizard
+## Version: 1.0
+## SavedVariables: LizardDMPSaved
+
+Core.lua
+TooltipScan.lua
+UI.lua
