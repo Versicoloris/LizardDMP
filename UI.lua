@@ -264,9 +264,9 @@ mini:RegisterForClicks("LeftButtonUp", "RightButtonUp")
 -- icon
 mini.icon = mini:CreateTexture(nil, "BACKGROUND")
 mini.icon:SetTexture("Interface\\Icons\\INV_Misc_MonsterScales_12")
-mini.icon:SetTexCoord(0.08, 0.92, 0.08, 0.92)
-mini.icon:SetSize(26, 26)
-mini.icon:SetPoint("CENTER")
+mini.icon:SetSize(20, 20)
+mini.icon:SetTexCoord(0.10, 0.90, 0.10, 0.90)
+mini.icon:SetPoint("CENTER", mini, "CENTER", 0, 0)
 
 -- border
 mini.border = mini:CreateTexture(nil, "OVERLAY")
