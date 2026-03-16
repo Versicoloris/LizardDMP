@@ -1,3 +1,6 @@
+<img width="487" height="539" alt="image" src="https://github.com/user-attachments/assets/d0be32a8-eb99-4d1e-906c-9f4d2dc51c15" />
+
+
 # 🦎 LizardDMP (Dress Me Please)
 
 Fast gear optimizer for WotLK 3.3.5 that automatically equips the best items based on your selected stat priority.
